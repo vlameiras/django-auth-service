@@ -131,4 +131,4 @@ curl --request POST \
 - https://github.com/davesque/django-rest-framework-simplejwt
 
 ## Notes
-Django REST Swagger has been deprecated a replacement suggestion to be considered is https://github.com/axnsan12/drf-yasg
+Django REST Swagger has been deprecated and a replacement suggestion to be considered is https://github.com/axnsan12/drf-yasg
